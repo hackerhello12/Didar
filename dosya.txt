@@ -1,1 +1,1 @@
-vless://7e6f89c3-f263-48c2-a642-ea3dc319bd03@104.26.6.171:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rakki.hikosu.online&fp=chrome&type=ws&sni=rakki.hikosu.online#Gutaryan%20wagty%20%5B14.05.2025%5D
+vless://3a3509a2-caa7-4f4d-b595-7afb2cae0034@95.85.51.151:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#%F0%9F%87%B3%F0%9F%87%B1Nederland
