@@ -1,1 +1,1 @@
-vless://3a3509a2-caa7-4f4d-b595-7afb2cae0034@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#%F0%9F%87%B3%F0%9F%87%B1Nederland
+vless://99e41e6d-9379-4c6e-a41e-44313a8f4073@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=sword.gamepassion.shop&fp=chrome&type=ws&sni=sword.gamepassion.shop#%F0%9F%87%B3%F0%9F%87%B1Nederland
